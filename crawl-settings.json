@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "url": "https://www.mtx.sg/home",
+      "checkOtherSites": false
+    }
+  ],
+  "defaults": {
+    "maxDepth": 2,
+    "maxPages": 50,
+    "maxLinksPerPage": 50,
+    "timeoutSeconds": 20
+  }
+}
